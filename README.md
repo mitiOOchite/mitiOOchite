@@ -2,4 +2,5 @@
 
 ![mitiOOchite's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitiOOchite&show_icons=true&theme=transparent)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mitiOOchite&theme=onedark)](https://github.com/mitiOOchite/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mitiOOchite&theme=juicyfresh)](https://github.com/mitiOOchite/github-profile-trophy)
+
